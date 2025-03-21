@@ -1,0 +1,17 @@
+D:\Projects\AmoreCoffee\Amore.DAL\bin\Debug\net9.0\Amore.DAL.deps.json
+D:\Projects\AmoreCoffee\Amore.DAL\bin\Debug\net9.0\Amore.DAL.runtimeconfig.json
+D:\Projects\AmoreCoffee\Amore.DAL\bin\Debug\net9.0\Amore.DAL.dll
+D:\Projects\AmoreCoffee\Amore.DAL\bin\Debug\net9.0\Amore.DAL.pdb
+D:\Projects\AmoreCoffee\Amore.DAL\bin\Debug\net9.0\Amore.Core.dll
+D:\Projects\AmoreCoffee\Amore.DAL\bin\Debug\net9.0\Amore.Core.pdb
+D:\Projects\AmoreCoffee\Amore.DAL\obj\Debug\net9.0\Amore.DAL.csproj.AssemblyReference.cache
+D:\Projects\AmoreCoffee\Amore.DAL\obj\Debug\net9.0\Amore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AmoreCoffee\Amore.DAL\obj\Debug\net9.0\Amore.DAL.AssemblyInfoInputs.cache
+D:\Projects\AmoreCoffee\Amore.DAL\obj\Debug\net9.0\Amore.DAL.AssemblyInfo.cs
+D:\Projects\AmoreCoffee\Amore.DAL\obj\Debug\net9.0\Amore.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\AmoreCoffee\Amore.DAL\obj\Debug\net9.0\Amore.DAL.csproj.Up2Date
+D:\Projects\AmoreCoffee\Amore.DAL\obj\Debug\net9.0\Amore.DAL.dll
+D:\Projects\AmoreCoffee\Amore.DAL\obj\Debug\net9.0\refint\Amore.DAL.dll
+D:\Projects\AmoreCoffee\Amore.DAL\obj\Debug\net9.0\Amore.DAL.pdb
+D:\Projects\AmoreCoffee\Amore.DAL\obj\Debug\net9.0\Amore.DAL.genruntimeconfig.cache
+D:\Projects\AmoreCoffee\Amore.DAL\obj\Debug\net9.0\ref\Amore.DAL.dll

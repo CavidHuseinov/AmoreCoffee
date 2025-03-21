@@ -1,0 +1,12 @@
+D:\Projects\AmoreCoffee\Amore.Core\bin\Debug\net9.0\Amore.Core.deps.json
+D:\Projects\AmoreCoffee\Amore.Core\bin\Debug\net9.0\Amore.Core.dll
+D:\Projects\AmoreCoffee\Amore.Core\bin\Debug\net9.0\Amore.Core.pdb
+D:\Projects\AmoreCoffee\Amore.Core\obj\Debug\net9.0\Amore.Core.csproj.AssemblyReference.cache
+D:\Projects\AmoreCoffee\Amore.Core\obj\Debug\net9.0\Amore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AmoreCoffee\Amore.Core\obj\Debug\net9.0\Amore.Core.AssemblyInfoInputs.cache
+D:\Projects\AmoreCoffee\Amore.Core\obj\Debug\net9.0\Amore.Core.AssemblyInfo.cs
+D:\Projects\AmoreCoffee\Amore.Core\obj\Debug\net9.0\Amore.Core.csproj.CoreCompileInputs.cache
+D:\Projects\AmoreCoffee\Amore.Core\obj\Debug\net9.0\Amore.Core.dll
+D:\Projects\AmoreCoffee\Amore.Core\obj\Debug\net9.0\refint\Amore.Core.dll
+D:\Projects\AmoreCoffee\Amore.Core\obj\Debug\net9.0\Amore.Core.pdb
+D:\Projects\AmoreCoffee\Amore.Core\obj\Debug\net9.0\ref\Amore.Core.dll

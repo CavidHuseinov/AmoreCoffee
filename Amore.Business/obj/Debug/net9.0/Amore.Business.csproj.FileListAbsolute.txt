@@ -1,0 +1,17 @@
+D:\Projects\AmoreCoffee\Amore.Business\bin\Debug\net9.0\Amore.Business.deps.json
+D:\Projects\AmoreCoffee\Amore.Business\bin\Debug\net9.0\Amore.Business.dll
+D:\Projects\AmoreCoffee\Amore.Business\bin\Debug\net9.0\Amore.Business.pdb
+D:\Projects\AmoreCoffee\Amore.Business\bin\Debug\net9.0\Amore.Core.dll
+D:\Projects\AmoreCoffee\Amore.Business\bin\Debug\net9.0\Amore.DAL.dll
+D:\Projects\AmoreCoffee\Amore.Business\bin\Debug\net9.0\Amore.DAL.pdb
+D:\Projects\AmoreCoffee\Amore.Business\bin\Debug\net9.0\Amore.Core.pdb
+D:\Projects\AmoreCoffee\Amore.Business\obj\Debug\net9.0\Amore.Business.csproj.AssemblyReference.cache
+D:\Projects\AmoreCoffee\Amore.Business\obj\Debug\net9.0\Amore.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AmoreCoffee\Amore.Business\obj\Debug\net9.0\Amore.Business.AssemblyInfoInputs.cache
+D:\Projects\AmoreCoffee\Amore.Business\obj\Debug\net9.0\Amore.Business.AssemblyInfo.cs
+D:\Projects\AmoreCoffee\Amore.Business\obj\Debug\net9.0\Amore.Business.csproj.CoreCompileInputs.cache
+D:\Projects\AmoreCoffee\Amore.Business\obj\Debug\net9.0\Amore.Bu.A6ECDA8B.Up2Date
+D:\Projects\AmoreCoffee\Amore.Business\obj\Debug\net9.0\Amore.Business.dll
+D:\Projects\AmoreCoffee\Amore.Business\obj\Debug\net9.0\refint\Amore.Business.dll
+D:\Projects\AmoreCoffee\Amore.Business\obj\Debug\net9.0\Amore.Business.pdb
+D:\Projects\AmoreCoffee\Amore.Business\obj\Debug\net9.0\ref\Amore.Business.dll
