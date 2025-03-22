@@ -14,6 +14,7 @@ namespace Amore.DAL.Context
         {
         }
         public DbSet<HeadBanner> HeadBanners { get; set; }
+        public DbSet<Logo> Logos { get; set; }
 
     }
 }

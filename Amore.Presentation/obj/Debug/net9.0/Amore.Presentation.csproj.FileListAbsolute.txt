@@ -167,3 +167,4 @@ D:\Projects\AmoreCoffee\Amore.Presentation\obj\Debug\net9.0\ref\Amore.Presentati
 D:\Projects\AmoreCoffee\Amore.Presentation\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Projects\AmoreCoffee\Amore.Presentation\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Projects\AmoreCoffee\Amore.Presentation\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\AmoreCoffee\Amore.Presentation\bin\Debug\net9.0\Amore.Presentation.staticwebassets.runtime.json

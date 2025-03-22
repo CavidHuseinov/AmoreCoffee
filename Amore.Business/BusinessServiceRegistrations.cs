@@ -18,6 +18,10 @@ namespace Amore.Business
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
             services.AddScoped(typeof(IHeadBannerService), typeof(HeadBannerService));
+            services.AddScoped(typeof(ILogoService), typeof(LogoService));
+            services.AddScoped(typeof(IUploadFileService), typeof(UploadFileService));
+
+
         }
     }
 }

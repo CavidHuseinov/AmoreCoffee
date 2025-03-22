@@ -39,6 +39,23 @@ namespace Amore.DAL.Migrations
 
                     b.ToTable("HeadBanners");
                 });
+
+            modelBuilder.Entity("Amore.Core.Entities.Logo", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("ImgUrl")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Logos");
+                });
 #pragma warning restore 612, 618
         }
     }

@@ -1,12 +1,20 @@
 {
   "Version": 1,
-  "Hash": "uaf+McReOuO49kaa0udLuBVnT9ShMs9/Mu93fsPHcHI=",
+  "Hash": "RHJk7qcXhND2uohheNrJciwrXV/22m8BNMnzFulETGw=",
   "Source": "Amore.Presentation",
   "BasePath": "_content/Amore.Presentation",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Amore.Presentation\\wwwroot",
+      "Source": "Amore.Presentation",
+      "ContentRoot": "D:\\Projects\\AmoreCoffee\\Amore.Presentation\\wwwroot\\",
+      "BasePath": "_content/Amore.Presentation",
+      "Pattern": "**"
+    }
+  ],
   "Assets": [],
   "Endpoints": []
 }
