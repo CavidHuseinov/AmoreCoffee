@@ -4909,11 +4909,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\AmoreCoffee\\Amore.DAL\\Amore.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Amore.DAL.csproj",
       "projectName": "Amore.DAL",
-      "projectPath": "D:\\Projects\\AmoreCoffee\\Amore.DAL\\Amore.DAL.csproj",
+      "projectPath": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Amore.DAL.csproj",
       "packagesPath": "C:\\Users\\Cavid\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\AmoreCoffee\\Amore.DAL\\obj\\",
+      "outputPath": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4934,8 +4934,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Projects\\AmoreCoffee\\Amore.Core\\Amore.Core.csproj": {
-              "projectPath": "D:\\Projects\\AmoreCoffee\\Amore.Core\\Amore.Core.csproj"
+            "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Core\\Amore.Core.csproj": {
+              "projectPath": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Core\\Amore.Core.csproj"
             }
           }
         }

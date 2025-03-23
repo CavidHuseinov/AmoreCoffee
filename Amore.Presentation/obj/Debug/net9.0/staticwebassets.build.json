@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RHJk7qcXhND2uohheNrJciwrXV/22m8BNMnzFulETGw=",
+  "Hash": "WPvI9EcvingdDtgY6kuAHiLgdyFV+ehSwmGWRE+HqXo=",
   "Source": "Amore.Presentation",
   "BasePath": "_content/Amore.Presentation",
   "Mode": "Default",
@@ -10,11 +10,116 @@
     {
       "Name": "Amore.Presentation\\wwwroot",
       "Source": "Amore.Presentation",
-      "ContentRoot": "D:\\Projects\\AmoreCoffee\\Amore.Presentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Presentation\\wwwroot\\",
       "BasePath": "_content/Amore.Presentation",
       "Pattern": "**"
     }
   ],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Presentation\\wwwroot\\Uploads\\string\\f73ea8bb-ee7e-4c90-8f3a-776d8ed9598aСнимок.PNG",
+      "SourceId": "Amore.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Presentation\\wwwroot\\",
+      "BasePath": "_content/Amore.Presentation",
+      "RelativePath": "Uploads/string/f73ea8bb-ee7e-4c90-8f3a-776d8ed9598aСнимок#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cdzon0efiy",
+      "Integrity": "EODBsR6SHmpExUuNz7JLBtUQFw7uGxOrLxC9JY2Bh7k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\string\\f73ea8bb-ee7e-4c90-8f3a-776d8ed9598aСнимок.PNG"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Uploads/string/f73ea8bb-ee7e-4c90-8f3a-776d8ed9598aСнимок.cdzon0efiy.PNG",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Presentation\\wwwroot\\Uploads\\string\\f73ea8bb-ee7e-4c90-8f3a-776d8ed9598aСнимок.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "330277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EODBsR6SHmpExUuNz7JLBtUQFw7uGxOrLxC9JY2Bh7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 17:48:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cdzon0efiy"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/string/f73ea8bb-ee7e-4c90-8f3a-776d8ed9598aСнимок.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EODBsR6SHmpExUuNz7JLBtUQFw7uGxOrLxC9JY2Bh7k="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/string/f73ea8bb-ee7e-4c90-8f3a-776d8ed9598aСнимок.PNG",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Presentation\\wwwroot\\Uploads\\string\\f73ea8bb-ee7e-4c90-8f3a-776d8ed9598aСнимок.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "330277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EODBsR6SHmpExUuNz7JLBtUQFw7uGxOrLxC9JY2Bh7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 17:48:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EODBsR6SHmpExUuNz7JLBtUQFw7uGxOrLxC9JY2Bh7k="
+        }
+      ]
+    }
+  ]
 }

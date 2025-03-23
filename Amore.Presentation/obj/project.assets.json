@@ -5567,11 +5567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\AmoreCoffee\\Amore.Presentation\\Amore.Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Presentation\\Amore.Presentation.csproj",
       "projectName": "Amore.Presentation",
-      "projectPath": "D:\\Projects\\AmoreCoffee\\Amore.Presentation\\Amore.Presentation.csproj",
+      "projectPath": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Presentation\\Amore.Presentation.csproj",
       "packagesPath": "C:\\Users\\Cavid\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\AmoreCoffee\\Amore.Presentation\\obj\\",
+      "outputPath": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5592,8 +5592,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Projects\\AmoreCoffee\\Amore.Business\\Amore.Business.csproj": {
-              "projectPath": "D:\\Projects\\AmoreCoffee\\Amore.Business\\Amore.Business.csproj"
+            "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Business\\Amore.Business.csproj": {
+              "projectPath": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Business\\Amore.Business.csproj"
             }
           }
         }

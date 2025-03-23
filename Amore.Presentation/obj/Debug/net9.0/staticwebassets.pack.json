@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Presentation\\wwwroot\\Uploads\\string\\f73ea8bb-ee7e-4c90-8f3a-776d8ed9598aСнимок.PNG",
+      "PackagePath": "staticwebassets\\Uploads\\string\\f73ea8bb-ee7e-4c90-8f3a-776d8ed9598aСнимок.PNG"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Amore.Presentation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Amore.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Amore.Presentation.props",
+      "PackagePath": "build\\Amore.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Amore.Presentation.props",
+      "PackagePath": "buildMultiTargeting\\Amore.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Amore.Presentation.props",
+      "PackagePath": "buildTransitive\\Amore.Presentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

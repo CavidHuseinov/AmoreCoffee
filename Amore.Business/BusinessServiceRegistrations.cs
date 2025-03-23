@@ -20,7 +20,8 @@ namespace Amore.Business
             services.AddScoped(typeof(IHeadBannerService), typeof(HeadBannerService));
             services.AddScoped(typeof(ILogoService), typeof(LogoService));
             services.AddScoped(typeof(IUploadFileService), typeof(UploadFileService));
-
+            services.AddScoped(typeof(ISliderService), typeof(SliderService));
+            services.AddScoped(typeof(ISloganService), typeof(SloganService));
 
         }
     }

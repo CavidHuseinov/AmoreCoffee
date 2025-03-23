@@ -10,3 +10,16 @@ D:\Projects\AmoreCoffee\Amore.Core\obj\Debug\net9.0\Amore.Core.dll
 D:\Projects\AmoreCoffee\Amore.Core\obj\Debug\net9.0\refint\Amore.Core.dll
 D:\Projects\AmoreCoffee\Amore.Core\obj\Debug\net9.0\Amore.Core.pdb
 D:\Projects\AmoreCoffee\Amore.Core\obj\Debug\net9.0\ref\Amore.Core.dll
+C:\Users\Cavid\Desktop\AmoreCoffee\Amore.Core\obj\Debug\net9.0\Amore.Core.csproj.AssemblyReference.cache
+C:\Users\Cavid\Desktop\AmoreCoffee\Amore.Core\obj\Debug\net9.0\Amore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cavid\Desktop\AmoreCoffee\Amore.Core\obj\Debug\net9.0\Amore.Core.AssemblyInfoInputs.cache
+C:\Users\Cavid\Desktop\AmoreCoffee\Amore.Core\obj\Debug\net9.0\Amore.Core.AssemblyInfo.cs
+C:\Users\Cavid\Desktop\AmoreCoffee\Amore.Core\obj\Debug\net9.0\Amore.Core.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\Desktop\AmoreCoffee\Amore.Core\obj\Debug\net9.0\Amore.Core.sourcelink.json
+C:\Users\Cavid\Desktop\AmoreCoffee\Amore.Core\obj\Debug\net9.0\Amore.Core.dll
+C:\Users\Cavid\Desktop\AmoreCoffee\Amore.Core\obj\Debug\net9.0\refint\Amore.Core.dll
+C:\Users\Cavid\Desktop\AmoreCoffee\Amore.Core\obj\Debug\net9.0\Amore.Core.pdb
+C:\Users\Cavid\Desktop\AmoreCoffee\Amore.Core\bin\Debug\net9.0\Amore.Core.deps.json
+C:\Users\Cavid\Desktop\AmoreCoffee\Amore.Core\bin\Debug\net9.0\Amore.Core.dll
+C:\Users\Cavid\Desktop\AmoreCoffee\Amore.Core\bin\Debug\net9.0\Amore.Core.pdb
+C:\Users\Cavid\Desktop\AmoreCoffee\Amore.Core\obj\Debug\net9.0\ref\Amore.Core.dll

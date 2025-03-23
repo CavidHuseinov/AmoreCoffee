@@ -798,11 +798,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\AmoreCoffee\\Amore.Core\\Amore.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Core\\Amore.Core.csproj",
       "projectName": "Amore.Core",
-      "projectPath": "D:\\Projects\\AmoreCoffee\\Amore.Core\\Amore.Core.csproj",
+      "projectPath": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Core\\Amore.Core.csproj",
       "packagesPath": "C:\\Users\\Cavid\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\AmoreCoffee\\Amore.Core\\obj\\",
+      "outputPath": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

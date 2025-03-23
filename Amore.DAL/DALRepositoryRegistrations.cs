@@ -18,6 +18,8 @@ namespace Amore.DAL
             services.AddScoped(typeof(IReadRepository<>), typeof(ReadRepository<>));
             services.AddScoped(typeof(IHeadBannerRepository), typeof(HeadBannerRepository));
             services.AddScoped(typeof(ILogoRepository), typeof(LogoRepository));
+            services.AddScoped(typeof(ISloganRepository), typeof(SloganRepository));
+            services.AddScoped(typeof(ISliderRepository), typeof(SliderRepository));
         }
     }
 }
