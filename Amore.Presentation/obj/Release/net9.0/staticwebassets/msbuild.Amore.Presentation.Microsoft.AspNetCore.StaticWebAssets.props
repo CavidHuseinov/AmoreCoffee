@@ -1,0 +1,22 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\string\f73ea8bb-ee7e-4c90-8f3a-776d8ed9598aСнимок.PNG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Amore.Presentation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Amore.Presentation</BasePath>
+      <RelativePath>Uploads/string/f73ea8bb-ee7e-4c90-8f3a-776d8ed9598aСнимок.PNG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>cdzon0efiy</Fingerprint>
+      <Integrity>EODBsR6SHmpExUuNz7JLBtUQFw7uGxOrLxC9JY2Bh7k=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\string\f73ea8bb-ee7e-4c90-8f3a-776d8ed9598aСнимок.PNG'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

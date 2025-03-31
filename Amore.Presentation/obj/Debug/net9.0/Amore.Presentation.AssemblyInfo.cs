@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Amore.Presentation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a184ff64d6ef36330b01c18828f8184cc18a85a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb1dfee8a9c00eba2a6d099b7280d915e3f48975")]
 [assembly: System.Reflection.AssemblyProductAttribute("Amore.Presentation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Amore.Presentation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

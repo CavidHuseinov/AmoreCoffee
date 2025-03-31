@@ -17,6 +17,9 @@ namespace Amore.DAL.Context
         public DbSet<Logo> Logos { get; set; }
         public DbSet<Slider> Sliders { get; set; }
         public DbSet<Slogan> Slogans { get; set; }
+        public DbSet<Location> Locations { get; set; }
+        public DbSet<SocialMedia> SocialMedias { get; set; }
+        public DbSet<Contact> Contacts { get; set; }
 
     }
 }

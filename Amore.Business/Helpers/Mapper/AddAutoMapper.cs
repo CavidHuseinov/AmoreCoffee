@@ -1,7 +1,10 @@
-﻿using Amore.Business.Helpers.DTOs.HeadBanner;
+﻿using Amore.Business.Helpers.DTOs.ContactForm;
+using Amore.Business.Helpers.DTOs.HeadBanner;
+using Amore.Business.Helpers.DTOs.Location;
 using Amore.Business.Helpers.DTOs.Logo;
 using Amore.Business.Helpers.DTOs.Slider;
 using Amore.Business.Helpers.DTOs.Slogan;
+using Amore.Business.Helpers.DTOs.SocialMedia;
 using Amore.Business.Helpers.DTOs.UploadFile;
 using Amore.Core.Entities;
 using AutoMapper;
@@ -35,6 +38,16 @@ namespace Amore.Business.Helpers.Mapper
             CreateMap<CreateSloganDto, Slogan>().ReverseMap();
             CreateMap<UpdateSloganDto, Slogan>().ReverseMap();
             CreateMap<GetSloganDto, Slogan>().ReverseMap();
+
+            CreateMap<CreateLocationDto, Location>().ReverseMap();
+            CreateMap<UpdateLocationDto, Location>().ReverseMap();
+            CreateMap<GetLocationDto, Location>().ReverseMap();
+
+            CreateMap<CreateSocialMediaDto, SocialMedia>().ReverseMap();
+            CreateMap<UpdateSocialMediaDto, SocialMedia>().ReverseMap();
+            CreateMap<GetSocialMediaDto, SocialMedia>().ReverseMap();
+
+            CreateMap<ContactFormDto, string>().ReverseMap();
 
 
         }
