@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Migrations\\20250405150200_aksdkajd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Amore.DAL\\Migrations\\20250405150200_aksdkajd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC96BF9F-8955-4A18-AFA2-0F3D9CE414C4}|Amore.Presentation\\Amore.Presentation.csproj|c:\\users\\cavid\\desktop\\amorecoffee\\amore.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC96BF9F-8955-4A18-AFA2-0F3D9CE414C4}|Amore.Presentation\\Amore.Presentation.csproj|solutionrelative:amore.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC96BF9F-8955-4A18-AFA2-0F3D9CE414C4}|Amore.Presentation\\Amore.Presentation.csproj|c:\\users\\cavid\\desktop\\amorecoffee\\amore.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC96BF9F-8955-4A18-AFA2-0F3D9CE414C4}|Amore.Presentation\\Amore.Presentation.csproj|solutionrelative:amore.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06E8C777-0F09-4B98-9659-562A7FF28084}|Amore.DAL\\Amore.DAL.csproj|c:\\users\\cavid\\desktop\\amorecoffee\\amore.dal\\repositories\\implementations\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E8C777-0F09-4B98-9659-562A7FF28084}|Amore.DAL\\Amore.DAL.csproj|solutionrelative:amore.dal\\repositories\\implementations\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Migrations\\20250405151042_aksjdjlaksd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Amore.DAL\\Migrations\\20250405151042_aksjdjlaksd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC96BF9F-8955-4A18-AFA2-0F3D9CE414C4}|Amore.Presentation\\Amore.Presentation.csproj|c:\\users\\cavid\\desktop\\amorecoffee\\amore.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BC96BF9F-8955-4A18-AFA2-0F3D9CE414C4}|Amore.Presentation\\Amore.Presentation.csproj|solutionrelative:amore.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{06E8C777-0F09-4B98-9659-562A7FF28084}|Amore.DAL\\Amore.DAL.csproj|c:\\users\\cavid\\desktop\\amorecoffee\\amore.dal\\migrations\\20250405150200_aksdkajd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8C777-0F09-4B98-9659-562A7FF28084}|Amore.DAL\\Amore.DAL.csproj|solutionrelative:amore.dal\\migrations\\20250405150200_aksdkajd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8C777-0F09-4B98-9659-562A7FF28084}|Amore.DAL\\Amore.DAL.csproj|c:\\users\\cavid\\desktop\\amorecoffee\\amore.dal\\repositories\\implementations\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8C777-0F09-4B98-9659-562A7FF28084}|Amore.DAL\\Amore.DAL.csproj|solutionrelative:amore.dal\\repositories\\implementations\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA7AB773-BE7F-4D22-985C-C53EEEACE9C9}|Amore.Business\\Amore.Business.csproj|c:\\users\\cavid\\desktop\\amorecoffee\\amore.business\\amore.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -170,7 +174,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -178,7 +182,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "20250405151042_aksjdjlaksd.cs",
+              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Migrations\\20250405151042_aksjdjlaksd.cs",
+              "RelativeDocumentMoniker": "Amore.DAL\\Migrations\\20250405151042_aksjdjlaksd.cs",
+              "ToolTip": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Migrations\\20250405151042_aksjdjlaksd.cs",
+              "RelativeToolTip": "Amore.DAL\\Migrations\\20250405151042_aksjdjlaksd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:10:42.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "20250405150200_aksdkajd.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Migrations\\20250405150200_aksdkajd.cs",
               "RelativeDocumentMoniker": "Amore.DAL\\Migrations\\20250405150200_aksdkajd.cs",
@@ -191,20 +208,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "Amore.Presentation\\appsettings.json",
               "ToolTip": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Presentation\\appsettings.json",
               "RelativeToolTip": "Amore.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-21T13:27:30.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Repositories\\Implementations\\ReadRepository.cs",
               "RelativeDocumentMoniker": "Amore.DAL\\Repositories\\Implementations\\ReadRepository.cs",
@@ -212,8 +229,7 @@
               "RelativeToolTip": "Amore.DAL\\Repositories\\Implementations\\ReadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:21:53.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T13:21:53.944Z"
             },
             {
               "$type": "Document",
@@ -223,14 +239,14 @@
               "RelativeDocumentMoniker": "Amore.Presentation\\Program.cs",
               "ToolTip": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Presentation\\Program.cs",
               "RelativeToolTip": "Amore.Presentation\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAEwCUAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDsAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T13:28:01.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Amore.Business.csproj",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Business\\Amore.Business.csproj",
               "RelativeDocumentMoniker": "Amore.Business\\Amore.Business.csproj",
@@ -238,12 +254,11 @@
               "RelativeToolTip": "Amore.Business\\Amore.Business.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-21T13:13:54.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T13:13:54.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Amore.Core.csproj",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Core\\Amore.Core.csproj",
               "RelativeDocumentMoniker": "Amore.Core\\Amore.Core.csproj",
@@ -251,12 +266,11 @@
               "RelativeToolTip": "Amore.Core\\Amore.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-21T13:19:15.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T13:19:15.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Amore.DAL.csproj",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Amore.DAL.csproj",
               "RelativeDocumentMoniker": "Amore.DAL\\Amore.DAL.csproj",
@@ -264,12 +278,11 @@
               "RelativeToolTip": "Amore.DAL\\Amore.DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-21T13:09:25.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T13:09:25.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Amore.Presentation.csproj",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Presentation\\Amore.Presentation.csproj",
               "RelativeDocumentMoniker": "Amore.Presentation\\Amore.Presentation.csproj",
@@ -277,12 +290,11 @@
               "RelativeToolTip": "Amore.Presentation\\Amore.Presentation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-21T13:30:34.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T13:30:34.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BusinessServiceRegistrations.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Business\\BusinessServiceRegistrations.cs",
               "RelativeDocumentMoniker": "Amore.Business\\BusinessServiceRegistrations.cs",
@@ -290,12 +302,11 @@
               "RelativeToolTip": "Amore.Business\\BusinessServiceRegistrations.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwBsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:20:01.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T13:20:01.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AddAutoMapper.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Business\\Helpers\\Mapper\\AddAutoMapper.cs",
               "RelativeDocumentMoniker": "Amore.Business\\Helpers\\Mapper\\AddAutoMapper.cs",
@@ -303,12 +314,11 @@
               "RelativeToolTip": "Amore.Business\\Helpers\\Mapper\\AddAutoMapper.cs",
               "ViewState": "AgIAAGAAAAAAAAAAAAAYwH0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:18:43.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T13:18:43.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "BaseDto.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Business\\Helpers\\DTOs\\Common\\BaseDto.cs",
               "RelativeDocumentMoniker": "Amore.Business\\Helpers\\DTOs\\Common\\BaseDto.cs",
@@ -316,12 +326,11 @@
               "RelativeToolTip": "Amore.Business\\Helpers\\DTOs\\Common\\BaseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:17:20.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T13:17:20.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "DALRepositoryRegistrations.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\DALRepositoryRegistrations.cs",
               "RelativeDocumentMoniker": "Amore.DAL\\DALRepositoryRegistrations.cs",
@@ -329,12 +338,11 @@
               "RelativeToolTip": "Amore.DAL\\DALRepositoryRegistrations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:20:49.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T13:20:49.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AmoreDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Context\\AmoreDbContext.cs",
               "RelativeDocumentMoniker": "Amore.DAL\\Context\\AmoreDbContext.cs",
@@ -342,12 +350,11 @@
               "RelativeToolTip": "Amore.DAL\\Context\\AmoreDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:10:01.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T13:10:01.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "20250331093537_kajlsdjklasdkj.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Migrations\\20250331093537_kajlsdjklasdkj.cs",
               "RelativeDocumentMoniker": "Amore.DAL\\Migrations\\20250331093537_kajlsdjklasdkj.cs",
@@ -359,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Slider.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Core\\Entities\\Slider.cs",
               "RelativeDocumentMoniker": "Amore.Core\\Entities\\Slider.cs",
@@ -371,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "SliderConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Context\\Configurations\\SliderConfiguration.cs",
               "RelativeDocumentMoniker": "Amore.DAL\\Context\\Configurations\\SliderConfiguration.cs",
@@ -383,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IHeadBannerRepository.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Repositories\\Interfaces\\IHeadBannerRepository.cs",
               "RelativeDocumentMoniker": "Amore.DAL\\Repositories\\Interfaces\\IHeadBannerRepository.cs",
@@ -395,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "SliderController.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Presentation\\Controllers\\SliderController.cs",
               "RelativeDocumentMoniker": "Amore.Presentation\\Controllers\\SliderController.cs",
@@ -407,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "20250324223139_askldaljksdjka.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Migrations\\20250324223139_askldaljksdjka.cs",
               "RelativeDocumentMoniker": "Amore.DAL\\Migrations\\20250324223139_askldaljksdjka.cs",
@@ -419,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "IHeadBannerService.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Business\\Services\\Interfaces\\IHeadBannerService.cs",
               "RelativeDocumentMoniker": "Amore.Business\\Services\\Interfaces\\IHeadBannerService.cs",
@@ -431,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "20250323211407_kjlasdlkasjkdaasd.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Migrations\\20250323211407_kjlasdlkasjkdaasd.cs",
               "RelativeDocumentMoniker": "Amore.DAL\\Migrations\\20250323211407_kjlasdlkasjkdaasd.cs",
@@ -443,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "HeadBannerService.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Business\\Services\\Implementations\\HeadBannerService.cs",
               "RelativeDocumentMoniker": "Amore.Business\\Services\\Implementations\\HeadBannerService.cs",
@@ -455,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Presentation\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Amore.Presentation\\Properties\\launchSettings.json",
@@ -467,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "20250321133228_HeadBanner.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Migrations\\20250321133228_HeadBanner.cs",
               "RelativeDocumentMoniker": "Amore.DAL\\Migrations\\20250321133228_HeadBanner.cs",
@@ -479,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Logo.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Core\\Entities\\Logo.cs",
               "RelativeDocumentMoniker": "Amore.Core\\Entities\\Logo.cs",
@@ -491,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "20250322174120_askljdlkajsdljkas.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Migrations\\20250322174120_askljdlkajsdljkas.cs",
               "RelativeDocumentMoniker": "Amore.DAL\\Migrations\\20250322174120_askljdlkajsdljkas.cs",
@@ -503,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "20250322174155_askljdlkajsdljkass.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Migrations\\20250322174155_askljdlkajsdljkass.cs",
               "RelativeDocumentMoniker": "Amore.DAL\\Migrations\\20250322174155_askljdlkajsdljkass.cs",
@@ -515,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "FileExtension.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Business\\Helpers\\Extensions\\FileExtension.cs",
               "RelativeDocumentMoniker": "Amore.Business\\Helpers\\Extensions\\FileExtension.cs",
@@ -527,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "HeadBannerRepository.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Repositories\\Implementations\\HeadBannerRepository.cs",
               "RelativeDocumentMoniker": "Amore.DAL\\Repositories\\Implementations\\HeadBannerRepository.cs",
@@ -539,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "WriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Repositories\\Implementations\\WriteRepository.cs",
               "RelativeDocumentMoniker": "Amore.DAL\\Repositories\\Implementations\\WriteRepository.cs",
@@ -551,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "IReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Repositories\\Interfaces\\IReadRepository.cs",
               "RelativeDocumentMoniker": "Amore.DAL\\Repositories\\Interfaces\\IReadRepository.cs",
@@ -563,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "IWriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Repositories\\Interfaces\\IWriteRepository.cs",
               "RelativeDocumentMoniker": "Amore.DAL\\Repositories\\Interfaces\\IWriteRepository.cs",
@@ -575,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "CreateHeadBannerValidator.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Business\\Helpers\\Validators\\HeadBannerValdiator\\CreateHeadBannerValidator.cs",
               "RelativeDocumentMoniker": "Amore.Business\\Helpers\\Validators\\HeadBannerValdiator\\CreateHeadBannerValidator.cs",
@@ -587,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "HeadBannerCannotBeRemove.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Business\\Helpers\\Exceptions\\HeadBannerCannotBeRemove.cs",
               "RelativeDocumentMoniker": "Amore.Business\\Helpers\\Exceptions\\HeadBannerCannotBeRemove.cs",
@@ -599,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "HeadBannerCannotBeCreated.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Business\\Helpers\\Exceptions\\HeadBannerCannotBeCreated.cs",
               "RelativeDocumentMoniker": "Amore.Business\\Helpers\\Exceptions\\HeadBannerCannotBeCreated.cs",
@@ -611,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "GetHeadBannerDto.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Business\\Helpers\\DTOs\\HeadBanner\\GetHeadBannerDto.cs",
               "RelativeDocumentMoniker": "Amore.Business\\Helpers\\DTOs\\HeadBanner\\GetHeadBannerDto.cs",
@@ -623,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "UpdateHeadBannerDto.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Business\\Helpers\\DTOs\\HeadBanner\\UpdateHeadBannerDto.cs",
               "RelativeDocumentMoniker": "Amore.Business\\Helpers\\DTOs\\HeadBanner\\UpdateHeadBannerDto.cs",
@@ -635,7 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "CreateHeadBannerDto.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Business\\Helpers\\DTOs\\HeadBanner\\CreateHeadBannerDto.cs",
               "RelativeDocumentMoniker": "Amore.Business\\Helpers\\DTOs\\HeadBanner\\CreateHeadBannerDto.cs",
@@ -647,7 +654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "HeadBannerConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.DAL\\Context\\Configurations\\HeadBannerConfiguration.cs",
               "RelativeDocumentMoniker": "Amore.DAL\\Context\\Configurations\\HeadBannerConfiguration.cs",
@@ -659,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\AmoreCoffee\\Amore.Core\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Amore.Core\\Entities\\Common\\BaseEntity.cs",

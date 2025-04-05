@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WPvI9EcvingdDtgY6kuAHiLgdyFV+ehSwmGWRE+HqXo=",
+  "Hash": "WbQYNJQQVPvP2ik/vQcI+W13Jxq7AzAXoD2z6s/uR5g=",
   "Source": "Amore.Presentation",
   "BasePath": "_content/Amore.Presentation",
   "Mode": "Default",
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 17:48:52 GMT"
+          "Value": "Sat, 05 Apr 2025 14:49:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -107,7 +107,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 17:48:52 GMT"
+          "Value": "Sat, 05 Apr 2025 14:49:53 GMT"
         },
         {
           "Name": "Cache-Control",

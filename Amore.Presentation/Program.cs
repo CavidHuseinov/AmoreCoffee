@@ -57,7 +57,7 @@ namespace Amore.Presentation
 
             builder.Services.AddDbContext<AmoreDbContext>(db =>
             {
-                db.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
+                db.UseSqlServer(builder.Configuration.GetConnectionString("New"));
             });
 
             builder.Services.AddAuthentication(opt =>

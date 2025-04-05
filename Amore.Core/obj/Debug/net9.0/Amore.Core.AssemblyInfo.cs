@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Amore.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36ff9400beeafcb5411bbf31860cc4fb8d3c2480")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b42a95e3943b5992ba1ba51299c1f9e520c29e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Amore.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Amore.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Amore.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb1dfee8a9c00eba2a6d099b7280d915e3f48975")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b42a95e3943b5992ba1ba51299c1f9e520c29e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Amore.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Amore.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
