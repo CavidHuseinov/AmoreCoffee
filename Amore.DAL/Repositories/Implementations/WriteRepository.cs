@@ -1,18 +1,18 @@
-﻿using Amore.Core.Entities.Common;
-using Amore.DAL.Context;
-using Amore.DAL.Repositories.Interfaces;
-using Microsoft.EntityFrameworkCore;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Amore.Core.Entities.Common;
+using Amore.DAL.Context;
+using Amore.DAL.Repositories.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace Amore.DAL.Repositories.Implementations
 {
     public class WriteRepository<TEntity> : IWriteRepository<TEntity> where TEntity : BaseEntity, new()
     {
-        private readonly AmoreDbContext _context;
+       private readonly AmoreDbContext _context;
 
         public WriteRepository(AmoreDbContext context)
         {

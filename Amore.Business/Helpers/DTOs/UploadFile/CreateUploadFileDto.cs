@@ -11,7 +11,5 @@ namespace Amore.Business.Helpers.DTOs.UploadFile
     {
         public IFormFile File { get; set; }
         public string FolderName { get; set; }
-
-
     }
 }

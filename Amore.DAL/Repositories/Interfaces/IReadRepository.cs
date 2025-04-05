@@ -1,11 +1,12 @@
-﻿using Amore.Core.Entities.Common;
-using Microsoft.EntityFrameworkCore.Query;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
+using Amore.Core.Entities;
+using Amore.Core.Entities.Common;
+using Microsoft.EntityFrameworkCore.Query;
 
 namespace Amore.DAL.Repositories.Interfaces
 {
